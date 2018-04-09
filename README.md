@@ -8,4 +8,4 @@ and now I want to learn Python and use GitHub.
 
 It's a great time for me and all the world.
 haha, Hello World! 
-能不能显示汉字？
+
